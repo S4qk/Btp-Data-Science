@@ -28,6 +28,18 @@ Whether you're a beginner or refreshing your skills, this course is structured t
 
 ---
 
+## 📌 Course Materials
+
+- [x] python_basics
+- [x] More_python?
+- [x] Only_Pandas
+- [ ] Numpy
+- [ ] Matplotlib
+- [ ] Complementary exercises: *Numpy*
+- [ ] Real_Estate_Clean_Up_Project
+
+---
+
 ## 🚀 Getting Started
 
 To get started with the course materials:
