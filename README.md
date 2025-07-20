@@ -33,7 +33,7 @@ Whether you're a beginner or refreshing your skills, this course is structured t
 - [x] python_basics
 - [x] More_python?
 - [x] Only_Pandas
-- [ ] Numpy
+- [x] Numpy
 - [ ] Matplotlib
 - [ ] Complementary exercises: *Numpy*
 - [ ] Real_Estate_Clean_Up_Project
